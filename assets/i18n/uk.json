@@ -31,6 +31,9 @@
   "Tokenomics.Airdrop.Description": "Під час запуску приблизно 2% токенів будуть розподілені між  гаманцями в екосистемі Base.\n <br/>\n 25 мільйонів токенів DIXIE будуть зарезервовані для благодійних внесків,\n таких як підтримка Української Армії <img class=\"pb-1\" src=\"assets/icons/ukraine-favicon.png\" width=\"16px\">",
   "Tokenomics.Dev.Title": "3% Розробка та <span class=\"text-slate\">2% Маркетинг</span>",
   "Tokenomics.Dev.Description": "3% токенів будуть використані для компенсації будь-яких зусиль щодо розробки.\n 2% коштів будуть виділені на можливі маркетингові заходи та лістинг на біржах.",
+  "Tokenomics.Contract": "Адреса контракту",
+  "Tokenomics.Contract.Address": "Буде оновлено            ",
+
 
   "OtherProjects.Title": "Майбутні проекти",
   "OtherProjects.DixieBase.Title": "DIXIE<span class=\"underline\">BASE</span>: Підтримка екосистеми мережі Base",

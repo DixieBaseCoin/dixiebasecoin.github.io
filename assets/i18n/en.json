@@ -30,7 +30,8 @@
   "Tokenomics.Airdrop.Description": "Upon launch some 2% of the tokens will be distributed across top wallets in base ecosystem.\n <br/>\n 25 Million DIXIE tokens will be reserved for charity donations,\n such as supporting Ukrainian Army <img class=\"pb-1\" src=\"assets/icons/ukraine-favicon.png\" width=\"16px\">",
   "Tokenomics.Dev.Title": "3% DEV & <span class=\"text-slate\">2% Marketing</span>",
   "Tokenomics.Dev.Description": "These 3% tokens will be utilized to compensate any development efforts.\n 2% of the funds will be allocated towards marketing efforts and listing on exchanges (CEX'es).",
-
+  "Tokenomics.Contract": "CA:",
+  "Tokenomics.Contract.Address": "TBD              ",
 
   "FeatureProjects.Label": "Featured Project",
 
