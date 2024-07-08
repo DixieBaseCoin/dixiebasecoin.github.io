@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720383248360,
+  "timestamp": 1720434502304,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.09cd756aaad39524.js",
+        "/main.429080efb45b343c.js",
         "/manifest.webmanifest",
         "/polyfills.79a1989148d696d5.js",
         "/runtime.a91dbf216ad015a5.js",
@@ -229,8 +229,8 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/assets/i18n/en.json": "4ebcacb60f96df57ab394544573f8af1e73285de",
-    "/assets/i18n/uk.json": "6ef3b2faf79be506d45ef2851804bdf83fdd1fe0",
+    "/assets/i18n/en.json": "237d77b4e98ef72d23e57bc635a571121bf2e5d1",
+    "/assets/i18n/uk.json": "ab3c9179491e6f768cd31e99d2e4d48ccc8bbb4b",
     "/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/assets/icons/icon-128x128.ico": "ccac53c591780b4dc09d801fd4b36a7631b5bfd4",
     "/assets/icons/icon-256x256.ico": "e2c81fdd68459bfef8dad723804d8cc454d81ff6",
@@ -278,8 +278,8 @@
     "/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "/favicon.ico": "49fb8185321359c83c1b311da4cd0fa1c15e078f",
-    "/index.html": "d9f8d4c4ac9144587087a966c5e73f9d59113b9c",
-    "/main.09cd756aaad39524.js": "8d4bb3c72e07b7dfdf49479a15dbf43f1f083c83",
+    "/index.html": "62a116a5cba4ca3b5fd9441cdd4b85c60f53c063",
+    "/main.429080efb45b343c.js": "2bc96aaad90aa2821938463a9f34e18b6bfe4788",
     "/manifest.webmanifest": "ca602bb046e182ec77c347a920e74910632e959a",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.79a1989148d696d5.js": "0085c788b4f8b9d6366bdb4eb68595018b8f4a0e",
