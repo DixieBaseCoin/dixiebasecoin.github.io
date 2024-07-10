@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720445410728,
+  "timestamp": 1720602431212,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -229,8 +229,8 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/assets/i18n/en.json": "237d77b4e98ef72d23e57bc635a571121bf2e5d1",
-    "/assets/i18n/uk.json": "ab3c9179491e6f768cd31e99d2e4d48ccc8bbb4b",
+    "/assets/i18n/en.json": "3be1104e58b653c0a711707a2eeabfb8fb76d78b",
+    "/assets/i18n/uk.json": "749d1b9c0cc4e71f3e7c3c575a4d8aa51e88224d",
     "/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/assets/icons/icon-128x128.ico": "ccac53c591780b4dc09d801fd4b36a7631b5bfd4",
     "/assets/icons/icon-256x256.ico": "e2c81fdd68459bfef8dad723804d8cc454d81ff6",
