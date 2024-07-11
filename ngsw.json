@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720604807151,
+  "timestamp": 1720690738748,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.6f43bc95df0caede.js",
+        "/main.477a10c35d744358.js",
         "/manifest.webmanifest",
         "/polyfills.79a1989148d696d5.js",
         "/runtime.a91dbf216ad015a5.js",
@@ -129,6 +129,7 @@
         "/assets/images/dixie_airdrop.png",
         "/assets/images/dixie_photo.png",
         "/assets/images/dixie_photo_transparent.png",
+        "/assets/images/dixiecoin-airdrop-new.png",
         "/assets/images/favicon.ico",
         "/assets/images/png-transparent-pray-for-ukraine-text-with-ukraine-flag.png",
         "/assets/images/sprava_hromad.png",
@@ -253,9 +254,10 @@
     "/assets/images/dc_lp_locked.svg": "ccfc329080ef63a5524e750251b834cf63091448",
     "/assets/images/dex-screener-seeklogo.svg": "e01a6ad6ba42d263cef5a38c21c2aada136a8580",
     "/assets/images/dextools-seeklogo.svg": "47641554b72e9adc0e8fc7f17bc346ee14b8373c",
-    "/assets/images/dixie_airdrop.png": "4d16f2d77733abbe65d16c078142c73600e5d690",
+    "/assets/images/dixie_airdrop.png": "036cb8bdccf9f0caf5f2533fa47611ab1334921c",
     "/assets/images/dixie_photo.png": "a351cf0be8dab84dbbaebcce118b2d72bf26cded",
     "/assets/images/dixie_photo_transparent.png": "72633ee87a5ec5017dd08263f8e539ab72d8d5b1",
+    "/assets/images/dixiecoin-airdrop-new.png": "20162484aedb08a3e0176ddfce254d21287a53bf",
     "/assets/images/favicon.ico": "23c8241ac913700238a1f6841bfd4220bef3cbf6",
     "/assets/images/png-transparent-pray-for-ukraine-text-with-ukraine-flag.png": "07c4c981264573866719075650aba95360b6db24",
     "/assets/images/sprava_hromad.png": "a9f28933db775d42b900391fd75f91b3a42e1993",
@@ -278,8 +280,8 @@
     "/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "/favicon.ico": "49fb8185321359c83c1b311da4cd0fa1c15e078f",
-    "/index.html": "594dfc5316a0c2ad395443fba3e1dd8b6f60970c",
-    "/main.6f43bc95df0caede.js": "4afa20ba745993b5fa182ab11b851f4afc6b21f0",
+    "/index.html": "4526d8383e2c529b6b1d948a29e010f62dbb9ea2",
+    "/main.477a10c35d744358.js": "df3aed08cf83a51f3ddfed44cfdf9508d9e71564",
     "/manifest.webmanifest": "ca602bb046e182ec77c347a920e74910632e959a",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.79a1989148d696d5.js": "0085c788b4f8b9d6366bdb4eb68595018b8f4a0e",
