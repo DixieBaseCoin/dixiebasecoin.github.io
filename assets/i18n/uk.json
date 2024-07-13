@@ -39,11 +39,12 @@
   "Tokenomics.Contract.Address": "0x62E0B9034fCF427F4D1687AA2316581b00D0789c",
   "Tokenomics.Contract.Whitepaper": "Технічний опис/Біла книга",
 
-
-
   "OtherProjects.Title": "Майбутні проекти",
   "OtherProjects.DixieBase.Title": "DIXIE<span class=\"underline\">BASE</span>: Підтримка екосистеми мережі Base",
   "OtherProjects.DixieBase.Description": "Ласкаво просимо до <span class=\"underline\">DixieBase</span>, революційного децентралізованого додатка (dApp), який призначений\n трансформувати екосистему <span class=\"underline\">мережі Base</span>. Побудований на основі\n токена <span class=\"underline\">DixieCoin</span>,\n DixieBase має стати основною платформою для стейкінгу та криптообміну в спільноті <span class=\"underline\">мережі Base </span>.",
+
+  "OtherProjects.DixieTap.Title": "DixieTap",
+  "OtherProjects.DixieTap.Description": "DixieTap: Заробляйте токени Dixie, натискаючи! Дбайте про свого собаку Діксі, щоб заробити ще більше. Спілкуйтеся з іншими та збільшуйте свої нагороди. Приєднуйтесь до веселощів та почніть заробляти вже сьогодні",
 
   "Contact.Pretitle": "Що далі",
   "Contact.Title": "Зв'яжіться з нами!",
